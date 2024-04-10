@@ -1,0 +1,17 @@
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.AssemblyInfoInputs.cache
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.AssemblyInfo.cs
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.csproj.CoreCompileInputs.cache
+E:\פרקטיקום\Employee\Employee.Servies\bin\Debug\net6.0\Employee.Servies.deps.json
+E:\פרקטיקום\Employee\Employee.Servies\bin\Debug\net6.0\Employee.Servies.dll
+E:\פרקטיקום\Employee\Employee.Servies\bin\Debug\net6.0\Employee.Servies.pdb
+E:\פרקטיקום\Employee\Employee.Servies\bin\Debug\net6.0\Employee.Core.dll
+E:\פרקטיקום\Employee\Employee.Servies\bin\Debug\net6.0\Employee.Data.dll
+E:\פרקטיקום\Employee\Employee.Servies\bin\Debug\net6.0\Employee.Core.pdb
+E:\פרקטיקום\Employee\Employee.Servies\bin\Debug\net6.0\Employee.Data.pdb
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.csproj.AssemblyReference.cache
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.csproj.CopyComplete
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.dll
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\refint\Employee.Servies.dll
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\Employee.Servies.pdb
+E:\פרקטיקום\Employee\Employee.Servies\obj\Debug\net6.0\ref\Employee.Servies.dll
