@@ -73,9 +73,6 @@ namespace Employee.Data.Migrations
                     b.Property<int?>("Employee_Id")
                         .HasColumnType("int");
 
-                    b.Property<bool>("IsManagement")
-                        .HasColumnType("bit");
-
                     b.Property<int>("RoleID")
                         .HasColumnType("int");
 

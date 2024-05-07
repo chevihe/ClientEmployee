@@ -21,3 +21,15 @@ F:\פרקטיקום\Employee\Employee.Core\obj\Debug\net6.0\refint\Employee.Core
 F:\פרקטיקום\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.pdb
 F:\פרקטיקום\Employee\Employee.Core\obj\Debug\net6.0\ref\Employee.Core.dll
 E:\פרקטיקום\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Employee\Employee.Core\bin\Debug\net6.0\Employee.Core.deps.json
+C:\Users\User\Desktop\Employee\Employee.Core\bin\Debug\net6.0\Employee.Core.dll
+C:\Users\User\Desktop\Employee\Employee.Core\bin\Debug\net6.0\Employee.Core.pdb
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.dll
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\refint\Employee.Core.dll
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\Employee.Core.pdb
+C:\Users\User\Desktop\Employee\Employee.Core\obj\Debug\net6.0\ref\Employee.Core.dll

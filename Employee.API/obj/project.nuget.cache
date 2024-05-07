@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Akb+Ges2XF1mZMDS490NGYC3hlgzTR6ZSavw5O/nYRVsWbg53MdeVHDNWGValWPBqNSEX7stj+Ny56aHYJp06Q==",
+  "dgSpecHash": "1lsrz5M7FgF7sQ1BqyDBlXYM9V2qpbfCG/NQpEu0s86K+HPcVGa5MmgZfX3cnBb42A3+/LkF/uX8ogRvy0zg4w==",
   "success": true,
-  "projectFilePath": "E:\\פרקטיקום\\Employee\\Employee.API\\Employee.API.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Employee\\Employee.API\\Employee.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

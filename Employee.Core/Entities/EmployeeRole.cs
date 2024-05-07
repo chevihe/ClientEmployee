@@ -13,7 +13,6 @@ namespace Employee.Core.Entities
         public int EmployeeId { get; set; }
         public int RoleID { get; set; }
         public Role Role { get; set; }
-        public bool IsManagement { get; set; }
         public DateTime StartRoleDate { get; set; }
     }
 }

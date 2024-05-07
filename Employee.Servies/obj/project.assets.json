@@ -1981,11 +1981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\פרקטיקום\\Employee\\Employee.Servies\\Employee.Service.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Employee\\Employee.Servies\\Employee.Service.csproj",
       "projectName": "Employee.Service",
-      "projectPath": "E:\\פרקטיקום\\Employee\\Employee.Servies\\Employee.Service.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Employee\\Employee.Servies\\Employee.Service.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\פרקטיקום\\Employee\\Employee.Servies\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Employee\\Employee.Servies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2006,11 +2006,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\פרקטיקום\\Employee\\Employee.Core\\Employee.Core.csproj": {
-              "projectPath": "E:\\פרקטיקום\\Employee\\Employee.Core\\Employee.Core.csproj"
+            "C:\\Users\\User\\Desktop\\Employee\\Employee.Core\\Employee.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Employee\\Employee.Core\\Employee.Core.csproj"
             },
-            "E:\\פרקטיקום\\Employee\\Employee.Data\\Employee.Data.csproj": {
-              "projectPath": "E:\\פרקטיקום\\Employee\\Employee.Data\\Employee.Data.csproj"
+            "C:\\Users\\User\\Desktop\\Employee\\Employee.Data\\Employee.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Employee\\Employee.Data\\Employee.Data.csproj"
             }
           }
         }

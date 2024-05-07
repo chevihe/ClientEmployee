@@ -12,7 +12,6 @@ namespace Employee.Core.DTOs
         public int Id { get; set; }
         public int EmployeeId { get; set; }
         public int RoleID { get; set; }
-        public bool IsManagement { get; set; }
         public DateTime StartRoleDate { get; set; }
     }
 }
